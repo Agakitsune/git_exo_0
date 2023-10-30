@@ -33,3 +33,4 @@ Auteurs :
  - Fabien Rozar
  - Raphael Turpin
  - Yassin Said
+ - Nathan Hoareau
